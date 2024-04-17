@@ -1,0 +1,18 @@
+.card-body{
+    text-align: center;
+    background-color: gainsboro;
+    padding:10px 20px;  
+    margin:40px 20px 15px 20px;
+}
+.bi{
+    color: blue;
+}
+.box{
+    padding: 10px 20px;
+}
+
+
+.containercontact{
+    padding:4px 20px;  
+    margin:60px 20px 60px 20px;
+}
